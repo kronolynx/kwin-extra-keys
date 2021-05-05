@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Extra key bindings
+Comment=Extra key bindings
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=kronolynx
+X-KDE-PluginInfo-Name=extra-bindings
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script
+Type=Service
